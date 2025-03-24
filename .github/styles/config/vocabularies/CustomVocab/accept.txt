@@ -5,6 +5,8 @@ Proselint
 
 APA
 
+ARM
+
 MLA
 
 PDFs
@@ -62,3 +64,15 @@ whitepapers
 Upwork
 
 impactful
+
+Prolog
+
+calculate_total_amount
+
+Preprocessor
+
+multithreading
+
+Multithreaded
+
+interprocess

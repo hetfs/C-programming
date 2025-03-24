@@ -3,190 +3,161 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    path: '/C-programning/blog',
+    component: ComponentCreator('/C-programning/blog', '317'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    path: '/C-programning/blog/archive',
+    component: ComponentCreator('/C-programning/blog/archive', 'e7a'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    path: '/C-programning/blog/authors',
+    component: ComponentCreator('/C-programning/blog/authors', '935'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    path: '/C-programning/blog/authors/all-sebastien-lorber-articles',
+    component: ComponentCreator('/C-programning/blog/authors/all-sebastien-lorber-articles', '30a'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    path: '/C-programning/blog/authors/yangshun',
+    component: ComponentCreator('/C-programning/blog/authors/yangshun', '6c3'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    path: '/C-programning/blog/first-blog-post',
+    component: ComponentCreator('/C-programning/blog/first-blog-post', 'ef9'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    path: '/C-programning/blog/long-blog-post',
+    component: ComponentCreator('/C-programning/blog/long-blog-post', 'c4d'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', 'b2f'),
+    path: '/C-programning/blog/mdx-blog-post',
+    component: ComponentCreator('/C-programning/blog/mdx-blog-post', 'ebc'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '182'),
+    path: '/C-programning/blog/tags',
+    component: ComponentCreator('/C-programning/blog/tags', 'f75'),
     exact: true
   },
   {
-    path: '/blog/authors',
-    component: ComponentCreator('/blog/authors', '0b7'),
+    path: '/C-programning/blog/tags/docusaurus',
+    component: ComponentCreator('/C-programning/blog/tags/docusaurus', '5aa'),
     exact: true
   },
   {
-    path: '/blog/authors/all-sebastien-lorber-articles',
-    component: ComponentCreator('/blog/authors/all-sebastien-lorber-articles', '4a1'),
+    path: '/C-programning/blog/tags/facebook',
+    component: ComponentCreator('/C-programning/blog/tags/facebook', 'c0d'),
     exact: true
   },
   {
-    path: '/blog/authors/yangshun',
-    component: ComponentCreator('/blog/authors/yangshun', 'a68'),
+    path: '/C-programning/blog/tags/hello',
+    component: ComponentCreator('/C-programning/blog/tags/hello', 'b50'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '89a'),
+    path: '/C-programning/blog/tags/hola',
+    component: ComponentCreator('/C-programning/blog/tags/hola', 'eae'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '9ad'),
+    path: '/C-programning/blog/welcome',
+    component: ComponentCreator('/C-programning/blog/welcome', '0bc'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', 'e9f'),
+    path: '/C-programning/markdown-page',
+    component: ComponentCreator('/C-programning/markdown-page', '5b5'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '287'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '704'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', '858'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '299'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '00d'),
-    exact: true
-  },
-  {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', 'd2b'),
-    exact: true
-  },
-  {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '3d7'),
-    exact: true
-  },
-  {
-    path: '/docs',
-    component: ComponentCreator('/docs', '733'),
+    path: '/C-programning/docs',
+    component: ComponentCreator('/C-programning/docs', 'e2d'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', '7e6'),
+        path: '/C-programning/docs',
+        component: ComponentCreator('/C-programning/docs', 'bce'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', 'ba6'),
+            path: '/C-programning/docs',
+            component: ComponentCreator('/C-programning/docs', 'bfe'),
             routes: [
               {
-                path: '/docs/category/tutorial---basics',
-                component: ComponentCreator('/docs/category/tutorial---basics', '20e'),
+                path: '/C-programning/docs/category/get-started-with-c-',
+                component: ComponentCreator('/C-programning/docs/category/get-started-with-c-', '173'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/tutorial---extras',
-                component: ComponentCreator('/docs/category/tutorial---extras', '9ad'),
+                path: '/C-programning/docs/EP-0001-Introduction/0002 Introduction C Programming',
+                component: ComponentCreator('/C-programning/docs/EP-0001-Introduction/0002 Introduction C Programming', 'd1e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', '61d'),
+                path: '/C-programning/docs/EP-0001-Introduction/0003 Levels of Programming Languages',
+                component: ComponentCreator('/C-programning/docs/EP-0001-Introduction/0003 Levels of Programming Languages', '2f5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/congratulations',
-                component: ComponentCreator('/docs/tutorial-basics/congratulations', '458'),
+                path: '/C-programning/docs/EP-0001-Introduction/0004 Language processors',
+                component: ComponentCreator('/C-programning/docs/EP-0001-Introduction/0004 Language processors', 'c35'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post', '108'),
+                path: '/C-programning/docs/EP-0001-Introduction/0005 Flowchart, Pseudocode and Algorithm',
+                component: ComponentCreator('/C-programning/docs/EP-0001-Introduction/0005 Flowchart, Pseudocode and Algorithm', '09d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-document',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-document', '8fc'),
+                path: '/C-programning/docs/EP-0001-Introduction/0006 Frameworks and Libraries',
+                component: ComponentCreator('/C-programning/docs/EP-0001-Introduction/0006 Frameworks and Libraries', '76e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-page',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-page', '951'),
+                path: '/C-programning/docs/EP-0001-Introduction/0007 Compilation Process in C',
+                component: ComponentCreator('/C-programning/docs/EP-0001-Introduction/0007 Compilation Process in C', '3fb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/docs/tutorial-basics/deploy-your-site', '4f5'),
+                path: '/C-programning/docs/EP-0001-Introduction/0008 Setup Environment',
+                component: ComponentCreator('/C-programning/docs/EP-0001-Introduction/0008 Setup Environment', 'aed'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/markdown-features',
-                component: ComponentCreator('/docs/tutorial-basics/markdown-features', 'b05'),
+                path: '/C-programning/docs/EP-0001-Introduction/0009 Get Start with C Programming',
+                component: ComponentCreator('/C-programning/docs/EP-0001-Introduction/0009 Get Start with C Programming', '9bb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', '978'),
+                path: '/C-programning/docs/EP-0001-Introduction/0010 Coding Styles and Formatting',
+                component: ComponentCreator('/C-programning/docs/EP-0001-Introduction/0010 Coding Styles and Formatting', 'cac'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/docs/tutorial-extras/translate-your-site', 'f9a'),
+                path: '/C-programning/docs/EP-0001-Introduction/What-is-programming',
+                component: ComponentCreator('/C-programning/docs/EP-0001-Introduction/What-is-programming', '8f0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/C-programning/docs/intro',
+                component: ComponentCreator('/C-programning/docs/intro', 'fd4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -197,8 +168,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '2e1'),
+    path: '/C-programning/',
+    component: ComponentCreator('/C-programning/', '280'),
     exact: true
   },
   {

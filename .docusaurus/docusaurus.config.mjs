@@ -4,30 +4,23 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "C Programming Journey",
+  "tagline": "Master C Programming",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-site.example.com",
-  "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "url": "https://hetfs.github.io",
+  "baseUrl": "/C-programning/",
+  "trailingSlash": false,
+  "organizationName": "hetfs",
+  "projectName": "C-programning",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "i18n": {
-    "defaultLocale": "en",
-    "locales": [
-      "en"
-    ],
-    "path": "i18n",
-    "localeConfigs": {}
-  },
   "presets": [
     [
       "classic",
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/hetfs/C-programming.git"
         },
         "blog": {
           "showReadingTime": true,
@@ -38,7 +31,7 @@ export default {
             ],
             "xslt": true
           },
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          "editUrl": "https://github.com/hetfs/C-programming.git",
           "onInlineTags": "warn",
           "onInlineAuthors": "warn",
           "onUntruncatedBlogPosts": "warn"
@@ -52,9 +45,9 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "C-programning",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "HEFTS LTD Logo",
         "src": "img/logo.svg"
       },
       "items": [
@@ -70,7 +63,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/hetfs/documentation",
           "label": "GitHub",
           "position": "right"
         }
@@ -84,7 +77,7 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
+              "label": "C Programning",
               "to": "/docs/intro"
             }
           ]
@@ -93,16 +86,16 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "label": "Facebook",
+              "href": "https://m.facebook.com/profile.php?id=100090714730738"
             },
             {
               "label": "X",
-              "href": "https://x.com/docusaurus"
+              "href": "https://x.com/hetf01"
+            },
+            {
+              "label": "Buy Me A Coffee",
+              "href": "https://www.buymeacoffee.com/hetfs01f"
             }
           ]
         },
@@ -110,17 +103,13 @@ export default {
           "title": "More",
           "items": [
             {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/hetfs"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2025 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2025 HEFTS LTD."
     },
     "prism": {
       "theme": {
@@ -350,6 +339,14 @@ export default {
     }
   },
   "baseUrlIssueBanner": true,
+  "i18n": {
+    "defaultLocale": "en",
+    "path": "i18n",
+    "locales": [
+      "en"
+    ],
+    "localeConfigs": {}
+  },
   "future": {
     "experimental_faster": {
       "swcJsLoader": false,

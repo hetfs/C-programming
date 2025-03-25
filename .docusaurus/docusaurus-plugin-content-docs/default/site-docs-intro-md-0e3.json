@@ -1,7 +1,7 @@
 {
   "id": "intro",
-  "title": "Tutorial Intro",
-  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "title": "C programming: From foundations to expertise",
+  "description": "Develop expertise in C programming with this structured learning path. Whether starting with the basics or advancing to system-level development, this guide serves as a comprehensive reference for:",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",

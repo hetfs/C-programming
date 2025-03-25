@@ -11,53 +11,53 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "EP-0001-Introduction/0002 Introduction C Programming",
-              "path": "/C-programning/docs/EP-0001-Introduction/0002 Introduction C Programming",
+              "id": "EP-0001-Getting-Started-Programming/0002 Introduction C Programming",
+              "path": "/C-programning/docs/EP-0001-Getting-Started-Programming/0002 Introduction C Programming",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "EP-0001-Introduction/0003 Levels of Programming Languages",
-              "path": "/C-programning/docs/EP-0001-Introduction/0003 Levels of Programming Languages",
+              "id": "EP-0001-Getting-Started-Programming/0003 Levels of Programming Languages",
+              "path": "/C-programning/docs/EP-0001-Getting-Started-Programming/0003 Levels of Programming Languages",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "EP-0001-Introduction/0004 Language processors",
-              "path": "/C-programning/docs/EP-0001-Introduction/0004 Language processors",
+              "id": "EP-0001-Getting-Started-Programming/0004 Language processors",
+              "path": "/C-programning/docs/EP-0001-Getting-Started-Programming/0004 Language processors",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "EP-0001-Introduction/0005 Flowchart, Pseudocode and Algorithm",
-              "path": "/C-programning/docs/EP-0001-Introduction/0005 Flowchart, Pseudocode and Algorithm",
+              "id": "EP-0001-Getting-Started-Programming/0005 Flowchart, Pseudocode and Algorithm",
+              "path": "/C-programning/docs/EP-0001-Getting-Started-Programming/0005 Flowchart, Pseudocode and Algorithm",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "EP-0001-Introduction/0006 Frameworks and Libraries",
-              "path": "/C-programning/docs/EP-0001-Introduction/0006 Frameworks and Libraries",
+              "id": "EP-0001-Getting-Started-Programming/0006 Frameworks and Libraries",
+              "path": "/C-programning/docs/EP-0001-Getting-Started-Programming/0006 Frameworks and Libraries",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "EP-0001-Introduction/0007 Compilation Process in C",
-              "path": "/C-programning/docs/EP-0001-Introduction/0007 Compilation Process in C",
+              "id": "EP-0001-Getting-Started-Programming/0007 Compilation Process in C",
+              "path": "/C-programning/docs/EP-0001-Getting-Started-Programming/0007 Compilation Process in C",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "EP-0001-Introduction/0008 Setup Environment",
-              "path": "/C-programning/docs/EP-0001-Introduction/0008 Setup Environment",
+              "id": "EP-0001-Getting-Started-Programming/0008 Setup Environment",
+              "path": "/C-programning/docs/EP-0001-Getting-Started-Programming/0008 Setup Environment",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "EP-0001-Introduction/0009 Get Start with C Programming",
-              "path": "/C-programning/docs/EP-0001-Introduction/0009 Get Start with C Programming",
+              "id": "EP-0001-Getting-Started-Programming/0009 Get Start with C Programming",
+              "path": "/C-programning/docs/EP-0001-Getting-Started-Programming/0009 Get Start with C Programming",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "EP-0001-Introduction/0010 Coding Styles and Formatting",
-              "path": "/C-programning/docs/EP-0001-Introduction/0010 Coding Styles and Formatting",
+              "id": "EP-0001-Getting-Started-Programming/0010 Coding Styles and Formatting",
+              "path": "/C-programning/docs/EP-0001-Getting-Started-Programming/0010 Coding Styles and Formatting",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "EP-0001-Introduction/What-is-programming",
-              "path": "/C-programning/docs/EP-0001-Introduction/What-is-programming",
+              "id": "EP-0001-Getting-Started-Programming/What-is-programming",
+              "path": "/C-programning/docs/EP-0001-Getting-Started-Programming/What-is-programming",
               "sidebar": "tutorialSidebar"
             },
             {

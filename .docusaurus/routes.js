@@ -79,15 +79,15 @@ export default [
   },
   {
     path: '/C-programning/docs',
-    component: ComponentCreator('/C-programning/docs', 'e2d'),
+    component: ComponentCreator('/C-programning/docs', 'f92'),
     routes: [
       {
         path: '/C-programning/docs',
-        component: ComponentCreator('/C-programning/docs', 'bce'),
+        component: ComponentCreator('/C-programning/docs', 'd01'),
         routes: [
           {
             path: '/C-programning/docs',
-            component: ComponentCreator('/C-programning/docs', 'bfe'),
+            component: ComponentCreator('/C-programning/docs', '9f6'),
             routes: [
               {
                 path: '/C-programning/docs/category/get-started-with-c-',
@@ -96,62 +96,62 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/C-programning/docs/EP-0001-Introduction/0002 Introduction C Programming',
-                component: ComponentCreator('/C-programning/docs/EP-0001-Introduction/0002 Introduction C Programming', 'd1e'),
+                path: '/C-programning/docs/EP-0001-Getting-Started-Programming/0002 Introduction C Programming',
+                component: ComponentCreator('/C-programning/docs/EP-0001-Getting-Started-Programming/0002 Introduction C Programming', 'c82'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/C-programning/docs/EP-0001-Introduction/0003 Levels of Programming Languages',
-                component: ComponentCreator('/C-programning/docs/EP-0001-Introduction/0003 Levels of Programming Languages', '2f5'),
+                path: '/C-programning/docs/EP-0001-Getting-Started-Programming/0003 Levels of Programming Languages',
+                component: ComponentCreator('/C-programning/docs/EP-0001-Getting-Started-Programming/0003 Levels of Programming Languages', '342'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/C-programning/docs/EP-0001-Introduction/0004 Language processors',
-                component: ComponentCreator('/C-programning/docs/EP-0001-Introduction/0004 Language processors', 'c35'),
+                path: '/C-programning/docs/EP-0001-Getting-Started-Programming/0004 Language processors',
+                component: ComponentCreator('/C-programning/docs/EP-0001-Getting-Started-Programming/0004 Language processors', 'baa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/C-programning/docs/EP-0001-Introduction/0005 Flowchart, Pseudocode and Algorithm',
-                component: ComponentCreator('/C-programning/docs/EP-0001-Introduction/0005 Flowchart, Pseudocode and Algorithm', '09d'),
+                path: '/C-programning/docs/EP-0001-Getting-Started-Programming/0005 Flowchart, Pseudocode and Algorithm',
+                component: ComponentCreator('/C-programning/docs/EP-0001-Getting-Started-Programming/0005 Flowchart, Pseudocode and Algorithm', '8be'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/C-programning/docs/EP-0001-Introduction/0006 Frameworks and Libraries',
-                component: ComponentCreator('/C-programning/docs/EP-0001-Introduction/0006 Frameworks and Libraries', '76e'),
+                path: '/C-programning/docs/EP-0001-Getting-Started-Programming/0006 Frameworks and Libraries',
+                component: ComponentCreator('/C-programning/docs/EP-0001-Getting-Started-Programming/0006 Frameworks and Libraries', 'c82'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/C-programning/docs/EP-0001-Introduction/0007 Compilation Process in C',
-                component: ComponentCreator('/C-programning/docs/EP-0001-Introduction/0007 Compilation Process in C', '3fb'),
+                path: '/C-programning/docs/EP-0001-Getting-Started-Programming/0007 Compilation Process in C',
+                component: ComponentCreator('/C-programning/docs/EP-0001-Getting-Started-Programming/0007 Compilation Process in C', 'cb6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/C-programning/docs/EP-0001-Introduction/0008 Setup Environment',
-                component: ComponentCreator('/C-programning/docs/EP-0001-Introduction/0008 Setup Environment', 'aed'),
+                path: '/C-programning/docs/EP-0001-Getting-Started-Programming/0008 Setup Environment',
+                component: ComponentCreator('/C-programning/docs/EP-0001-Getting-Started-Programming/0008 Setup Environment', '1c6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/C-programning/docs/EP-0001-Introduction/0009 Get Start with C Programming',
-                component: ComponentCreator('/C-programning/docs/EP-0001-Introduction/0009 Get Start with C Programming', '9bb'),
+                path: '/C-programning/docs/EP-0001-Getting-Started-Programming/0009 Get Start with C Programming',
+                component: ComponentCreator('/C-programning/docs/EP-0001-Getting-Started-Programming/0009 Get Start with C Programming', '3a1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/C-programning/docs/EP-0001-Introduction/0010 Coding Styles and Formatting',
-                component: ComponentCreator('/C-programning/docs/EP-0001-Introduction/0010 Coding Styles and Formatting', 'cac'),
+                path: '/C-programning/docs/EP-0001-Getting-Started-Programming/0010 Coding Styles and Formatting',
+                component: ComponentCreator('/C-programning/docs/EP-0001-Getting-Started-Programming/0010 Coding Styles and Formatting', 'c30'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/C-programning/docs/EP-0001-Introduction/What-is-programming',
-                component: ComponentCreator('/C-programning/docs/EP-0001-Introduction/What-is-programming', '8f0'),
+                path: '/C-programning/docs/EP-0001-Getting-Started-Programming/What-is-programming',
+                component: ComponentCreator('/C-programning/docs/EP-0001-Getting-Started-Programming/What-is-programming', '8c2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
